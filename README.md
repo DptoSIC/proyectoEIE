@@ -9,15 +9,15 @@
 -	El sistema permitirá introducir la diferente documentación que se genera de la práctica.
 -	El sistema permitirá obtener listado de los proyectos, ordenados y filtrados por diferentes criterios.
 -	CRUD Proyectos
-o	Id
-o	Titulo
-o	Alumnos
-o	Curso
-o	Tutor
-o	Unidad de practicas
-o	Paradigma
-o	Sistema Operativo Cliente
-o	Sistema Operativo Servidor
+-	Id
+-	Titulo
+-	Alumnos
+-	Curso
+-	Tutor
+-	Unidad de practicas
+-	Paradigma
+-	Sistema Operativo Cliente
+-	Sistema Operativo Servidor
 o	Lenguaje de Programación
 o	Entorno
 o	Gestor de Base de Datos
