@@ -12,7 +12,7 @@ SISTEMA DE GESTIÓN DE PROYECTOS INFORMÁTICOS
 
 #
 Inline-style: 
-![alt text](https://github.com/DptoSIC/proyectoEIE/EVS/Escudo_Acing.jpg "ACING - Dpto.Sist.Inf y Ciberdefensa")
+![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/Escudo_Acing.JPG "ACING - Dpto.Sist.Inf y Ciberdefensa")
 
 
 Equipo 2:
