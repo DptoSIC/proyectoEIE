@@ -189,7 +189,7 @@ Una vez realizada la consulta del proyecto, el actual sistema da la opción de p
 
 A continuación, se describe de forma gráfica el modelo del sistema actual.
 
-![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/situacion inicial.jpg "Situacion Inicial BDs Documental Lotus Notes")
+![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/situacion%20inicial.jpg "Situacion Inicial BDs Documental Lotus Notes")
 
 
 Los problemas que actualmente se observan con el sistema actual son los siguientes:
@@ -293,7 +293,7 @@ Al contar con un gestor de bases de datos de código abierto el gasto sería 0.
 
 A continuación, se describe de forma gráfica el modelo de negocio del sistema propuesto.
 
-![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/situacion final.jpg "Situacion Final Alternativa 1")
+![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/situacion%20final.jpg "Situacion Final Alternativa 1")
 
 - **Alternativa 2:**
 
