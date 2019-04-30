@@ -6,15 +6,8 @@ SISTEMA DE GESTIÓN DE PROYECTOS INFORMÁTICOS
 
 #
 
-![alt text](https://github.com/DptoSIC/proyectoEIE/blob/master/EVS/imagenes/Escudo_Acing.JPG "ACING - Dpto.Sist.Inf y Ciberdefensa")
 
 Equipo 2:
-
-CAP. TECAP. Raúl Gallego Sanjuán
-
-CAP. GC. María del Carmen del Cerro de la Cruz
-
-TTE. GC. Patricio Lestón Valbuena
 
 
 **Historial de Revisiones EVS**
