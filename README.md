@@ -1,2 +1,2 @@
 # proyectoEIE
-Gestión de Proyectos Informáticos
+Gestión de Proyectos 
