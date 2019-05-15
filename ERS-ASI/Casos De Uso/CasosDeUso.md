@@ -227,3 +227,5 @@ En esa misma reunión, el cliente acepta la Especificación de Requisitos Softwa
 | CU9 |  Enviar Correo. | X | X |   |   |   |   |   |   |
 | CU10 |  Listados de Proyectos. |   |   |   |   |   |   | X |   |
 | CU11 |  Migrar Proyectos DIM. |   |   |   |   |   |   |   | X |
+
+![Diagrama Casos Uso - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Diagrama%20Casos%20Uso/Matriz_Requisitos.jpg)
