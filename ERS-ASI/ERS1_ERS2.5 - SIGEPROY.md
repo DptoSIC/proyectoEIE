@@ -17,15 +17,10 @@ ALUMNO. Patricio Lestón Valbuena
 | 08/05/2019 | 1.0          | Elaboración | Inicio de la confección del presente documento |
 | 17/05/2019 | 1.0          | Revisado    | Se estudia el documento con el cliente.        |
 |            |              |             |                                                |
-|            |              |             |                                                |
-|            |              |             |                                                |
-|            |              |             |                                                |
-|            |              |             |                                                |
-|            |              |             |                                                |
 
 Documento validado y aprobado por las partes en fecha: 17/05/2019
 
-| Por la Academia de Ingenieros del Ejército de Tierra | VºBº Tutor del Proyecto           | Por el Jefe de Proyecto   |
+| Por la Unidad                                        | VºBº Tutor del Proyecto           | Por el Jefe de Proyecto   |
 |------------------------------------------------------|-----------------------------------|---------------------------|
 |                                                      |                                   |                           |
 | Fdo. Juan Manuel García Rodríguez                    | Fdo. Juan Manuel García Rodríguez | Fdo. Raúl Gallego Sanjuán |
@@ -194,7 +189,7 @@ ERS 1.3.- MODELO DE NEGOCIO
 <br>**ERS 1.4.- MODELO DE DOMINIO**
 -----------------------------------
 
-![Modelo de Dominio - SIGEPROY](media/813625ddf05e6a2d28b96cc6f322c48c.jpg)
+![Modelo de Dominio - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Modelo%20de%20Dominio/MDOMINIO.jpg)
 
 ERS 1.5.- IDENTIFICACIÓN DEL ENTORNO TECNOLÓGICO
 ------------------------------------------------
