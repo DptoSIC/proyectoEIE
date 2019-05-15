@@ -2,15 +2,13 @@ SISTEMA DE GESTIÓN DE PROYECTOS
 
 **ESPECIFICACIÓN DE REQUISITOS SOFTWARE**
 
-![](media/eac96a56d4a74b1e9b49258eb0129b5d.jpg)
-
 Equipo 2:
 
-CAP. TECAP. Raúl Gallego Sanjuán
+ALUMNO. Raúl Gallego Sanjuán
 
-CAP. GC. María del Carmen del Cerro de la Cruz
+ALUMNO. María del Carmen del Cerro de la Cruz
 
-TTE. GC. Patricio Lestón Valbuena
+ALUMNO. Patricio Lestón Valbuena
 
 **Historial de Revisiones ERS**
 
@@ -37,63 +35,63 @@ INDICE
 [ERS 1.- DEFINICIÓN DEL SISTEMA 4](#ers-1.--definición-del-sistema)
 
 [ERS 1.1.- DETERMINACIÓN DEL ALCANCE DEL SISTEMA
-4](#ers-1.1.--determinación-del-alcance-del-sistema)
+](#ers-1.1.--determinación-del-alcance-del-sistema)
 
 [ERS 1.2.- GLOSARIO DE TÉRMINOS Y ABREVIATURAS
-5](#ers-1.2.--glosario-de-términos-y-abreviaturas)
+](#ers-1.2.--glosario-de-términos-y-abreviaturas)
 
-[ERS 1.3.- MODELO DE NEGOCIO 6](#ers-1.3.--modelo-de-negocio)
+[ERS 1.3.- MODELO DE NEGOCIO ](#ers-1.3.--modelo-de-negocio)
 
-[ERS 1.4.- MODELO DE DOMINIO 7](#ers-1.4.--modelo-de-dominio)
+[ERS 1.4.- MODELO DE DOMINIO ](#ers-1.4.--modelo-de-dominio)
 
 [ERS 1.5.- IDENTIFICACIÓN DEL ENTORNO TECNOLÓGICO
-8](#ers-1.5.--identificación-del-entorno-tecnológico)
+](#ers-1.5.--identificación-del-entorno-tecnológico)
 
 [ERS 1.6.- ESPECIFICACIÓN DE ESTÁNDARES Y NORMAS
-8](#ers-1.6.--especificación-de-estándares-y-normas)
+](#ers-1.6.--especificación-de-estándares-y-normas)
 
-[ERS 2.- CATÁLOGO DE REQUISITOS 9](#ers-2.--catálogo-de-requisitos)
+[ERS 2.- CATÁLOGO DE REQUISITOS ](#ers-2.--catálogo-de-requisitos)
 
-[ERS 2.1.- REQUISITOS CATEGORIZADOS. 9](#ers-2.1.--requisitos-categorizados.)
+[ERS 2.1.- REQUISITOS CATEGORIZADOS. ](#ers-2.1.--requisitos-categorizados.)
 
 [ERS 2.2.- IDENTIFICACIÓN DE USUARIOS PARTICIPANTES Y FINALES
-11](#ers-2.2.--identificación-de-usuarios-participantes-y-finales)
+](#ers-2.2.--identificación-de-usuarios-participantes-y-finales)
 
-[ERS 2.2.1.- CATÁLOGO DE USUARIOS 11](#ers-2.2.1.--catálogo-de-usuarios)
+[ERS 2.2.1.- CATÁLOGO DE USUARIOS ](#ers-2.2.1.--catálogo-de-usuarios)
 
-[ERS 2.2.2.- PLANIFICACIÓN 11](#ers-2.2.2.--planificación)
+[ERS 2.2.2.- PLANIFICACIÓN ](#ers-2.2.2.--planificación)
 
 [ERS 2.3 ESTABLECIMIENTO DE REQUISITOS:
-12](#ers-2.3-establecimiento-de-requisitos)
+](#ers-2.3-establecimiento-de-requisitos)
 
-[ERS 2.3.1.- OBTENCIÓN DE REQUISITOS 12](#ers-2.3.1.--obtención-de-requisitos)
+[ERS 2.3.1.- OBTENCIÓN DE REQUISITOS ](#ers-2.3.1.--obtención-de-requisitos)
 
-[ERS 2.3.2.- INTERFACES DE USUARIO 12](#ers-2.3.2.--interfaces-de-usuario)
+[ERS 2.3.2.- INTERFACES DE USUARIO ](#ers-2.3.2.--interfaces-de-usuario)
 
-[ERS 2.3.3.- INTERFACES DE HARDWARE 13](#ers-2.3.3.--interfaces-de-hardware)
+[ERS 2.3.3.- INTERFACES DE HARDWARE ](#ers-2.3.3.--interfaces-de-hardware)
 
-[ERS 2.3.4.- INTERFACES DE SOFTWARE 14](#ers-2.3.4.--interfaces-de-software)
+[ERS 2.3.4.- INTERFACES DE SOFTWARE ](#ers-2.3.4.--interfaces-de-software)
 
 [ERS 2.3.5.- INTERFACES DE COMUNICACIONES
-14](#ers-2.3.5.--interfaces-de-comunicaciones)
+](#ers-2.3.5.--interfaces-de-comunicaciones)
 
-[ERS 2.4.- REQUISITOS FUNCIONALES 16](#ers-2.4.--requisitos-funcionales)
+[ERS 2.4.- REQUISITOS FUNCIONALES ](#ers-2.4.--requisitos-funcionales)
 
-[ERS 2.5.- REQUISITOS NO FUNCIONALES 24](#ers-2.5.--requisitos-no-funcionales)
+[ERS 2.5.- REQUISITOS NO FUNCIONALES ](#ers-2.5.--requisitos-no-funcionales)
 
 [ERS 2.5.1.- REQUISITOS DE RENDIMIENTO
-24](#ers-2.5.1.--requisitos-de-rendimiento)
+](#ers-2.5.1.--requisitos-de-rendimiento)
 
-[ERS 2.5.2.- REQUISITOS DE SEGURIDAD 25](#ers-2.5.2.--requisitos-de-seguridad)
+[ERS 2.5.2.- REQUISITOS DE SEGURIDAD ](#ers-2.5.2.--requisitos-de-seguridad)
 
 [ERS 2.5.3.- REQUISITOS DE ACCESIBILIDAD
-27](#ers-2.5.3.--requisitos-de-accesibilidad)
+](#ers-2.5.3.--requisitos-de-accesibilidad)
 
 [ERS 2.5.4.- REQUISITOS DE FACILIDAD DE USO
-27](#ers-2.5.4.--requisitos-de-facilidad-de-uso)
+](#ers-2.5.4.--requisitos-de-facilidad-de-uso)
 
 [ANEXO 1: MATRIZ DE CUMPLIMIENTO DE REQUISITOS
-30](#anexo-1-matriz-de-cumplimiento-de-requisitos)
+](#anexo-1-matriz-de-cumplimiento-de-requisitos)
 
 <br>ERS 1.- DEFINICIÓN DEL SISTEMA
 ==================================
@@ -191,12 +189,12 @@ conseguir una mayor precisión en la especificación del sistema de información
 ERS 1.3.- MODELO DE NEGOCIO
 ---------------------------
 
-![3.-%20Modelo%20de%20Negocio/MNEGOCIO.pdf](media/5f147f3aa3e25e11585e59f2d7443ff8.emf)
+![Modelo de Negocio - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Modelo%20de%20Negocio/MNEGOCIO.jpg)
 
 <br>**ERS 1.4.- MODELO DE DOMINIO**
 -----------------------------------
 
-![Imagen que contiene texto, mapa Descripción generada automáticamente](media/813625ddf05e6a2d28b96cc6f322c48c.jpg)
+![Modelo de Dominio - SIGEPROY](media/813625ddf05e6a2d28b96cc6f322c48c.jpg)
 
 ERS 1.5.- IDENTIFICACIÓN DEL ENTORNO TECNOLÓGICO
 ------------------------------------------------
