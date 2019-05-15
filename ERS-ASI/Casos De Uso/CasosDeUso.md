@@ -26,7 +26,9 @@ De lo anterior se llega a la conclusión de que los casos de uso son:
 
 
 
-A continuación, se muestra el Diagrama de casos de uso del sistema.
+A continuación, se muestra el Diagrama de casos de uso del sistema:
+
+![Diagrama Casos Uso - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Diagrama%20Casos%20Uso/Diagrama_Casos_Uso.jpg)
 
 ## ERS 2.7.- ESPECIFICACIÓN CASOS DE USO
 
