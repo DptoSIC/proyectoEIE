@@ -158,6 +158,5 @@ ERS 1.6.- ESPECIFICACIÓN DE ESTÁNDARES Y NORMAS
 
 -   Ley 9/1968, de 5 de abril, sobre secretos oficiales.
 
-[Subir](#top)
 
 [Volver ERS](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/ERS_SIGEPROY.md)
