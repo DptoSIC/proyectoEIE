@@ -9,11 +9,6 @@ INDICE
 [ERS 3.2.- ESPECIFICACIÓN DE FORMATOS INDIVIDUALES DE LA INTERFAZ DE PANTALLA
 3](#ers-3.2.--especificación-de-formatos-individuales-de-la-interfaz-de-pantalla)
 
-[ERS 4- PRESENTACIÓN Y APROBACIÓN DE LA ESPECIFICACIÓN DE REQUISITOS SOFTWARE.
-9](#_Toc8936051)
-
-[ANEXO 1: MATRIZ DE CUMPLIMIENTO DE REQUISITOS 10](#_Toc8936052)
-
 ERS 3.- DEFINICIÓN DE LAS INTERFACES DE USUARIO
 ===============================================
 
@@ -47,52 +42,52 @@ ERS 3.2.- ESPECIFICACIÓN DE FORMATOS INDIVIDUALES DE LA INTERFAZ DE PANTALLA
 
 Pantalla del portal de la aplicación:
 
-![](media/1cdd67df8e624d3b71cd5377d89db931.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/AccesoPortal.png)
 
 Pantalla de registro de la aplicación:
 
-![](media/f5bbd3462d33cbd8e22dfd0f01332bfa.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/Registro.png)
 
 Pantalla de inicio para Alumno:
 
-![](media/9f5333a952d3dc60730b419c3937e095.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/InicioAlumno.png)
 
 Pantalla de Alumno con búsqueda:
 
-![](media/55975430ce992f60c4310ebc7a452a11.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/AlumnoBusqueda.png)
 
 Pantalla Mis Proyectos:
 
-![](media/6ab7bc0e33ff9335c7059a5afab2ab60.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/MisProyectos.png)
 
 Pantalla Proyecto/Alta Proyecto:
 
-![](media/e25f80d16a7142ead0a323ef826ca0da.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/AltaProyecto.png)
 
 Pantalla de inicio para Administrador:
 
-![](media/bd9fb1e46045a3496a30619c7359cfe0.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/InicioAdministrador.png)
 
 Pantalla Gestión de Usuarios-inicio-:
 
-![](media/a1bd6814d2535e45cf2eea696fbe552e.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/InicioGestionUsuariospng)
 
 Pantalla Gestión de Usuarios-selección de perfil-:
 
-![](media/ad312d729ce90d12a84e490e4abdef36.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/SeleccionPerfil.png)
 
 Pantalla Gestión de Usuarios-perfil asignado-
 
-![](media/3bdc17e3e1fc752370f61347b5145367.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/PerfilAsignado.png)
 
 Pantalla Gestión de Cursos-inicio-:
 
-![](media/7f6b0d8644abc9a6ce0ebc9de7211454.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/InicioGestionCursos.png)
 
 Pantalla Gestión de Cursos-ventana emergente-:
 
-![](media/5cee7d4caca926b5ef0f56ad8be25d74.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/VentanaEmergenteCursos.png)
 
 Pantalla Gestión de Cursos-edición/alta Cursos-:
 
-![](media/97ec0f6f2e0f74c278150c34fd165ddf.png)
+![](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/AltaCursos.png)
