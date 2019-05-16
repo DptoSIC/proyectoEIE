@@ -1,15 +1,24 @@
+<a name="top"></a>
 ## ERS 2.6.- DIAGRAMA DE CASOS DE USO
+
+## Índice de contenidos
+* [Actores](#item1)
+* [Casos de Uso](#item2)
+
 
 Del estudio detallado de los Requisitos, se extraen los siguientes Actores del sistema.
 
+<a name="item1"></a>
 | **Actor** | **Descripción** |
 | --- | --- |
 | Administrador | Persona responsable de las tareas de gestión del sistema como la gestión de los usuarios, gestión de los cursos y gestión de los proyectos tanto históricos como los de nueva creación. |
 | Alumno | Encargado de dar de alta sus proyectos en un curso y consultar proyectos en estado cerrado. Sólo podrá actualizar aquellos proyectos suyos en estado abierto.   |
 | Visitante | Persona que puede consultar cualquier proyecto en estado cerrado. |
 
-De lo anterior se llega a la conclusión de que los casos de uso son:
+[Subir](#top)
 
+De lo anterior se llega a la conclusión de que los casos de uso son:
+* [Contenido 2](#item2)
 | **NUMERACIÓN** | **DESCRIPCIÓN** |
 | --- | --- |
 | CU1 | Solicitar Registro. |
@@ -24,11 +33,9 @@ De lo anterior se llega a la conclusión de que los casos de uso son:
 | CU10 | Listados de proyectos. |
 | CU11 | Migrar Proyectos DIM. |
 
+[Subir](#top)
 
-
-A continuación, se muestra el Diagrama de casos de uso del sistema:
-
-![Diagrama Casos Uso - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Diagrama%20Casos%20Uso/Diagrama_Casos_Uso.jpg)
+A continuación, se muestra el Diagrama de casos de uso del sistema.
 
 ## ERS 2.7.- ESPECIFICACIÓN CASOS DE USO
 
@@ -227,5 +234,3 @@ En esa misma reunión, el cliente acepta la Especificación de Requisitos Softwa
 | CU9 |  Enviar Correo. | X | X |   |   |   |   |   |   |
 | CU10 |  Listados de Proyectos. |   |   |   |   |   |   | X |   |
 | CU11 |  Migrar Proyectos DIM. |   |   |   |   |   |   |   | X |
-
-![Diagrama Casos Uso - SIGEPROY](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Diagrama%20Casos%20Uso/Matriz_Requisitos.jpg)
