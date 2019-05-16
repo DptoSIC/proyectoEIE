@@ -109,12 +109,12 @@ conseguir una mayor precisión en la especificación del sistema de información
 <A name= “ers13”>ERS 1.3.- MODELO DE NEGOCIO</A>
 ---------------------------
 
-![Modelo de Negocio](imagenes/MNEGOCIO.jpg)
+![Modelo de Negocio](ERS-ASI/imagenes/MNEGOCIO.jpg)
 
 <A name= “ers14”><br>**ERS 1.4.- MODELO DE DOMINIO**</A>
 -----------------------------------
 
-![Modelo de Dominio](imagenes/MDOMINIO.jpg)
+![Modelo de Dominio](ERS/imagenes/MDOMINIO.jpg)
 
 <A name= “ers15”>ERS 1.5.- IDENTIFICACIÓN DEL ENTORNO TECNOLÓGICO</A>
 ------------------------------------------------
