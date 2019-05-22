@@ -2,11 +2,11 @@
 
 **Documentación:**
 
-** 1.- SPRINT BACKLOG**
+**1.- SPRINT BACKLOG**
 
-    **1.1.- Tareas a realizar**
+    1.1.- Tareas a realizar
 
-    **1.2.- Acta Reunion.**
+    1.2.- Acta Reunion.
 
 **2.- CLASES DE DISEÑO (Caso Uso: Consultar Proyectos)**
 
