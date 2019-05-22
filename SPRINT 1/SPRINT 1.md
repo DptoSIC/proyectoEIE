@@ -14,8 +14,8 @@
 
 **4.- DIAGRAMA BURNDOWN**
 
-**5.- TABLERO KANBAN**
-[Tablero Kanban](https://github.com/DptoSIC/proyectoEIE/projects/1)
+**5.- [TABLERO KANBAN]**
+(https://github.com/DptoSIC/proyectoEIE/projects/1)
 
 **6.- ACTA REVISIÓN DEL SPRINT**
 
