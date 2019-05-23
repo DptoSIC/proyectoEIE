@@ -125,7 +125,7 @@ ERS 1.3.- MODELO DE NEGOCIO
 ERS 1.4.- MODELO DE DOMINIO
 ---------------------------
 
-![Modelo de Dominio](ERS-ASI/Modelo de Dominio/MDOMINIO 2.jpg)
+![Modelo de Dominio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Modelo%20de%20Dominio/MDOMINIO%202.jpg)
 
 [Subir](#top)
 
