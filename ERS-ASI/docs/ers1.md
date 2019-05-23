@@ -117,7 +117,7 @@ conseguir una mayor precisión en la especificación del sistema de información
 ERS 1.3.- MODELO DE NEGOCIO
 ---------------------------
 
-![Modelo de Negocio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/MNEGOCIO.jpg)
+![Modelo de Negocio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/MNEGOCIO v2.jpg)
 
 [Subir](#top)
 
@@ -125,7 +125,7 @@ ERS 1.3.- MODELO DE NEGOCIO
 ERS 1.4.- MODELO DE DOMINIO
 ---------------------------
 
-![Modelo de Dominio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/MDOMINIO.jpg)
+![Modelo de Dominio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/imagenes/MDOMINIO 2.jpg)
 
 [Subir](#top)
 
