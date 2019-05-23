@@ -117,7 +117,7 @@ conseguir una mayor precisión en la especificación del sistema de información
 ERS 1.3.- MODELO DE NEGOCIO
 ---------------------------
 
-![Modelo de Negocio](ERS-ASI/Modelo de Negocio/MNEGOCIO v2.jpg)
+![Modelo de Negocio](https://github.com/DptoSIC/proyectoEIE/blob/master/ERS-ASI/Modelo%20de%20Negocio/MNEGOCIO%20v2.jpg)
 
 [Subir](#top)
 
