@@ -4,7 +4,7 @@
 
 **1.- SPRINT BACKLOG**
 
-1.1.- Tareas a realizar
+1.1.- [Tareas a realizar][Tareas]
 
 1.2.- [Acta Reunion][Acta]
 
@@ -23,3 +23,4 @@
 **8.- INCREMENTO (Código Fuente)**
 
 [Acta]: https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/Acta_reunion_planeacion_sprint-1.md
+[Tareas]:https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/tares.md
