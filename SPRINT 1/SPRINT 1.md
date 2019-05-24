@@ -6,7 +6,7 @@
 
     1.1.- Tareas a realizar
 
-    1.2.- [Acta Reunion][Acta]
+    1.2.- [Acta Reunion] [Acta]
 
 **2.- CLASES DE DISEÑO (Caso Uso: Consultar Proyectos)**
 
