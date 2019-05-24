@@ -12,7 +12,7 @@
 
 **3.- DIAGRAMA DE SECUENCIA (Caso Uso: Consultar Proyecto)**
 
-**4.- DIAGRAMA BURNDOWN**
+**4.- [DIAGRAMA BURNDOWN][Burndown]**
 
 **5.- [TABLERO KANBAN](https://github.com/DptoSIC/proyectoEIE/projects/1)**
 
@@ -24,3 +24,4 @@
 
 [Acta]: https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/Acta_reunion_planeacion_sprint-1.md
 [Tareas]:https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/tares.md
+[Burndown]:https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/Sprint_Burndown_GESPROY.xlsx
