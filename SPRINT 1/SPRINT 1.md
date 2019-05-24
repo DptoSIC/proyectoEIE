@@ -6,7 +6,7 @@
 
     1.1.- Tareas a realizar
 
-    1.2.- [Acta Reunion] [Acta]
+    1.2.- [Acta Reunion](https://github.com/DptoSIC/proyectoEIE/blob/master/SPRINT%201/documentos/Acta_reunion_planeacion_sprint-1.md)
 
 **2.- CLASES DE DISEÑO (Caso Uso: Consultar Proyectos)**
 
