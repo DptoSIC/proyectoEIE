@@ -30,7 +30,7 @@ Documento validado y aprobado por las partes en fecha: 30/05/2019
 
 ## Índice de Contenido
 
-[## Orden del día](#item0)
+[Orden del día](#item0)
 1. [Objetivos planteados para el primer Sprint.](#item1)
 2. [Estimaciones y coste de cada tarea.](#item2)
 3. [Revisión del trabajo realizado.](#item3)
