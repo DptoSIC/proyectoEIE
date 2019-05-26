@@ -39,12 +39,12 @@ Documento validado y aprobado por las partes en fecha: 30/05/2019
 
 
 <a name="item0"></a>
-#Orden del día
+**Orden del día**
 
 El objetivo de la reunión ha sido analizar el cumplimiento de los objetivos para el primer Sprint planificado, revisión de estimaciones y cantidad de horas dedicadas a cada tarea, ver el trabajo realizado y planificar el próximo Sprint. Por último se realizo una evaluación del equipo y propuestas de cambios para próximas reuniones.
 
 <a name="item1"></a>
-1. Objetivos planteados para el primer Sprint
+#1. Objetivos planteados para el primer Sprint
 
 Se desarrollaron todas las tareas seleccionadas, excepto la serialización y deserialización del fichero, por decisión del cliente. A cambio, en dicha tarea se ha incluido la visualización por pantalla de los resultados del código. 
 El trabajo se realizó principalmente en el correr de los últimos 5 días del sprint. Aún se encuentra pendiente profundizar la verificación de las funcionalidades y realización exhaustiva de pruebas del código.
@@ -61,12 +61,12 @@ El trabajo se realizó principalmente en el correr de los últimos 5 días del s
 **Total coste PH: 60PH.**
 
 <a name="item2"></a>
-2. Estimaciones y coste de a cada tarea
+#2. Estimaciones y coste de a cada tarea
 
 El coste asociado y estimado a cada una de las tareas, se ha aproximado a la realidad.
 
 <a name="item3"></a>
-3. Revisión del trabajo realizado
+#3. Revisión del trabajo realizado
 
 Se realizó una revisión de las funcionalidades desarrolladas, se propusieron mejoras y se analizaron posibles cambios en los requerimientos.
 
@@ -76,12 +76,12 @@ Notas:
 
 
 <a name="item4"></a>
-4.Planificación del próximo Sprint
+#4.Planificación del próximo Sprint
 
 Se realizara un Sprint de mayor duración, ya que el actual no ha llegado a dos semanas. La finalidad del mismo es continuar con las tareas que no pudieron asumirse en este sprint.
 
 <a name="item5"></a>
-5.Propuestas para el equipo
+#5.Propuestas para el equipo
 
 Preparar un plan detallado para la próxima iteración, contar con una agenda para la próxima reunión con el fin de realizar una presentación más eficiente y de forma ordenada.
 
