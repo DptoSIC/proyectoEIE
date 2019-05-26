@@ -3,7 +3,7 @@
 <a name="top"></a>
 ## ACTA DE REVISIÓN SPRINT 1
 
-Equipo 2:
+### Equipo 2:
 
 ALUMNO. Raúl Gallego Sanjuán
 
@@ -16,7 +16,7 @@ ALUMNO. Patricio Lestón Valbuena
 | **Fecha**  | **Revisión** | **Estado**  | **Descripción**                                |
 |------------|--------------|-------------|------------------------------------------------|
 | 25/05/2019 | 1.0          | Elaboración | Inicio de la confección del presente documento |
-| 30/05/2019 | 1.0          | Revisado    | Se estudia el documento con el cliente.        |
+| 30/05/2019 | 1.0          |             | Se estudia el documento con el cliente.        |
 |            |              |             |                                                |
 
 Documento validado y aprobado por las partes en fecha: 30/05/2019
@@ -69,6 +69,11 @@ El coste asociado y estimado a cada una de las tareas, se ha aproximado a la rea
 ## 3. Revisión del trabajo realizado
 
 Se realizó una revisión de las funcionalidades desarrolladas, se propusieron mejoras y se analizaron posibles cambios en los requerimientos.
+Mejoras:
+- ...
+- ...
+Cambios:
+- ...
 
 Notas:
 - ...
@@ -78,7 +83,7 @@ Notas:
 <a name="item4"></a>
 ## 4.Planificación del próximo Sprint
 
-Se realizara un Sprint de mayor duración, ya que el actual no ha llegado a dos semanas. La finalidad del mismo es continuar con las tareas que no pudieron asumirse en este sprint.
+Se realizara un Sprint de mayor duración, ya que el actual no ha llegado a dos semanas. La finalidad del mismo es continuar con las tareas que no pudieron asumirse en este sprint y ....
 
 <a name="item5"></a>
 ## 5.Propuestas para el equipo
