@@ -1,7 +1,7 @@
 # SISTEMA DE GESTIÓN DE PROYECTOS
 
 <a name="top"></a>
-## **ACTA DE REVISIÓN SPRINT **
+## ACTA DE REVISIÓN SPRINT 1
 
 Equipo 2:
 
