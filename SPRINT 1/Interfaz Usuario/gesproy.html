@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Sprint 1 de GESIPROY">
+    <meta name="author" content="Equipo 2 - Dirección de Proyectos">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>GESPROY</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="./img/soldado.png">
+
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
+    <!-- CSS - Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="css/proyecto.css">
+
+</head>
+
+<body>
+    <header class="cabecera">
+        <div class="container mt-3 cabecera">
+            <div class="row">
+                <div class="col-sm-2">
+                    <img src="./img/acing2.jpg" class="img-thumbnail" width="100" height="100" alt="Responsive image">
+                </div>
+                <div class="col-sm-8">
+                    <h1 class="mt-3 text-center" id="titulo">Gestión de Proyectos <img src="./img/soldado.png" width="50"
+                            height="50" /></h1>
+                </div>
+                <div class="col-sm-2">
+                    <img src="./img/madoc.jpg" class="img-thumbnail" width="100" height="100" alt="Responsive image">
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- **** Zona de Filtrado de Datos de Proyectos **** -->
+    <div class="proyectos-search-form-area cabecera mt-3">
+        <div class="container" id="filtro">
+            <div class="proyectos-search-form">
+                <form action="#" method="post">
+                    <div class="row">
+                        <div class="col-12 col-lg-10">
+                            <div class="row">
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <select name="idProyecto" id="idProyecto" class="form-control">
+                                        <option value="idProyecto">Codigo Proyecto</option>
+                                        <option value="DIM001">DIM001</option>
+                                        <option value="DIM002">DIM002</option>
+                                        <option value="NBQ001">NBQ001</option>
+                                        <option value="NBQ002">NBQ002</option>
+                                        <option value="CIB001">CIB001</option>
+                                        <option value="EW0001">EW0001</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-2">
+                                    <select name="types" id="types" class="form-control">
+                                        <option value="titulo">Titulo</option>
+                                        <option value="titulo 0">Titulo 0</option>
+                                        <option value="titulo 1">Titulo 1</option>
+                                        <option value="titulo 2">Titulo 2</option>
+                                        <option value="titulo 3">Titulo 3</option>
+                                        <option value="titulo 4">Titulo 4</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-2">
+                                    <select name="desCorta" id="desCorta" class="form-control">
+                                        <option value="01">Descripción Corta</option>
+                                        <option value="02">DIM1.....</option>
+                                        <option value="03">DIM2.....</option>
+                                        <option value="04">NBQ......</option>
+                                        <option value="05">CIB......</option>
+                                        <option value="06">EW.......</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-3">
+                                    <select name="nomCurso" id="nomCurso" class="form-control">
+                                        <option value="01">Nombre Curso</option>
+                                        <option value="02">DIM</option>
+                                        <option value="03">NBQ</option>
+                                        <option value="04">CIBERDEFENSA</option>
+                                        <option value="05">CASTRAMENTACION</option>
+                                        <option value="06">GUERRA ELECTRÓNICA</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-md-6 col-lg-2">
+                                    <select name="estado" id="estado" class="form-control">
+                                        <option value="estado">Estado</option>
+                                        <option value="abierto">Abierto</option>
+                                        <option value="cerrado">Cerrado</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <button type="button" class="btn btn-primary"
+                                onclick="genera_tabla();">Filtrar</button>
+                            <span>
+                                <button type="button" class="btn btn-secondary"
+                                    onclick="limpiarConsulta();">Limpiar</button> </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <hr> <!-- Linea horizontal-->
+
+
+    <div class="limiter">
+        <div class="container-table100">
+        </div>
+    </div>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script src="http://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="gesproy.js"></script>
+</body>
+
+</html>

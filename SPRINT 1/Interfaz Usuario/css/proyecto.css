@@ -1,0 +1,243 @@
+/* Tipo de letra para nuestra tabla */
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url('../fonts/OpenSans/OpenSans-Regular.ttf'); 
+  } 
+  
+  
+  /*//////////////////////////////////////////////////////////////////
+  [ RESTYLE TAG ]*
+
+  /****************** El * asterisco es conocido como selector universal y alude a todos los elementos que están contenidos dentro de otro. ****/
+  * {
+      margin: 0px; 
+      padding: 0px; 
+      box-sizing: border-box; /* border-box le dice al navegador tomar en cuenta para cualquier valor que se especifique de borde o
+                                 de relleno para el ancho o alto de un elemento. Es decir, si se define un elemento con un ancho de 100 pixeles. 
+                                 Esos 100 pixeles incluíran cualquier borde o relleno que se añadan, y la caja de contenido se encogerá para 
+                                 absorber ese ancho extra. Esto típicamente hace mucho más fácil dimensionar elementos. */
+  }
+  
+  /***** Etiqueta BODY - Cuerpo del documento *****/
+  body{
+    background-color: rgb(217, 237, 220);
+    height: 100%;
+    font-family: sans-serif;
+}
+
+  /***** Etiquetas HTML ****/
+  html {
+      height: 100%;
+      font-family: sans-serif;
+  }
+  
+  /***** Etiqueta de Hipervínculo *****/
+  a {
+      margin: 0px;
+      transition: all 0.4s;
+      -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+  }
+  
+
+  /***** Etiquetas de Encabezados *****/
+  h1,h2,h3,h4,h5,h6 {margin: 0px;}
+
+  /**** Etiqueta de Párrafo *****/
+  p {margin: 0px;}
+
+  /**** Etiquetas de Lista no ordenada (ul), y elementos de lista (li) *****/ 
+  ul, li {
+      margin: 0px;
+      list-style-type: none;
+  }
+  
+   
+  /***** Etiqueta de Botón pulsable *****/
+  button {
+      outline: none !important;
+      border: none;
+      background: transparent;
+  }
+  /***** Etiqueta de Botón pulsable que con :hoverselector cambia el estilo de un botón cuando mueva el ratón sobre él. Cambia de la flecha a la mano *****/
+  button:hover {
+      cursor: pointer;
+  }
+  
+   
+  /*//////////////////////////////////////////////////////////////////
+  [ TABLAS ]*/
+  
+  /***** Clase Cabecera del Encabezamiento y Filtrado Datos *****/
+  .cabecera {
+    background: linear-gradient(45deg,#10ad6c,#50c864);
+    width: 95%;
+    margin-left:auto;
+    margin-right: auto;
+  }
+  
+  /***** Clase de la Tabla que creamos con los datos filtrados *****/
+  .limiter {
+    border-width: 2px;
+    border-color: rgb(77, 182, 147);
+    border-style: outset;
+    width: 95%;
+    margin-left:auto;
+    margin-right: auto;
+  }
+  
+  /***** Clase container-table100 de la Tabla que creamos con los datos filtrados *****/
+  .container-table100 {
+    width: 100%;
+    min-height: 100vh; /**** Altura mínima de un elemento ******/
+    background: #50c864;
+    background: linear-gradient(45deg,#10ad6c,#50c864); 
+      
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 33px 30px; /***** /*  arriba y abajo 33px de padding, e izquierda y derecha 30px de padding */
+    align-content: flex-start;
+  }
+  
+  /***** Etiqueta tabla que define una tabla HTML *****/
+  table {
+    border-spacing: 1; /***** especifica la distancia entre los bordes de celdas adyacentes *****/
+    border-collapse: collapse; /***** se utiliza para fusionar los bordes. Valor collapse: fusión *****/
+    background: white; /***** color de fondo de la tabla *****/
+    border-radius: 10px; /***** permite definir qué tan redondeadas serán las esquinas. *****/
+    overflow: hidden; /***** especifica: si recortar contenido, dibujar barras de desplazamiento o mostrar el contenido excedente en un elemento a nivel de bloque. *****/
+    width: 100%;
+    margin: 0 auto;
+    position: relative; /***** especifica cómo un elemento es posicionado en el documento. Valor relative: Las propiedades top y bottom especifican el desplazamiento 
+                        vertical desde su posición original; las propiedades left y right especifican su desplazamiento horizontal. *****/
+  }
+
+  /***** Todos los elementos contenidos dentro de table *****/
+  table * {
+    position: relative;
+  }
+
+  /***** Celda de datos de una tabla (td), Celda de encabezado (th) *****/ 
+  table td, table th {
+    padding-left: 8px;
+    text-align: left;
+  }
+
+  /***** Elemento de fila (tr) de la Sección de Encabezado (thead) de una tabla (table) *****/
+  table thead tr {
+    height: 60px;
+    background: #36304a;
+  }
+
+  /***** Elemento de fila (tr) del Cuerpo de la Tabla (tbody) de una tabla (table) *****/
+  table tbody tr {
+    height: 50px;
+  }
+
+  /***** Elemento de fila (tr) del Cuerpo de la Tabla (tbody) *****/
+  tbody tr {
+    font-family: OpenSans-Regular;
+    font-size: 15px;
+    color: #808080;
+    line-height: 1.2; /***** especifica la altura de una línea. *****/
+    font-weight: unset; /***** establece cómo se deben mostrar los caracteres gruesos o delgadosen el texto. Valor unset: restablece una propiedad 
+                        a su valor heredado si hereda de su padre, y si no , a su valor inicial .*****/
+  }
+  
+  /***** Cada vez que paso el ratón por un elemento de fila (tr) del cuerpo de la tabla (tbody) *****/
+  tbody tr:hover {
+    color:#555555;
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+  
+
+  /***** Clases column1, column2, column3, column4, column5, column6. NO SE USAN ACTUALMENTE *****/ 
+  .column1 {
+    width: 260px;
+    padding-left: 40px;
+  }
+  
+  .column2 {
+    width: 160px;
+  }
+  
+  .column3 {
+    width: 245px;
+  }
+  
+  .column4 {
+    width: 110px;
+    text-align: right;
+  }
+  
+  .column5 {
+    width: 170px;
+    text-align: right;
+  }
+  
+  .column6 {
+    width: 222px;
+    text-align: right;
+    padding-right: 62px;
+  }
+  
+  
+/*********************************************************** INICIO PROYECTO.CSS *******************************/
+
+/***** Etiquetas Encabezamiento (header), clase Zona Filtrado Datos (proyectos-search-form-area)  *****/
+header, .proyectos-search-form-area {
+    border-width: 2px;
+    border-color: rgb(77, 182, 147);
+    border-style: outset;
+}
+
+/***** Identificador Titulo, para el titulo del Encabezamiento *****/
+#titulo{
+    color:rgb(7, 70, 7);
+    padding-top: 25px;
+    text-shadow: -1px 0 rgb(241, 238, 238), 0 1px rgb(244, 239, 239);
+    letter-spacing: 2px;
+    font-family: OpenSans-Regular;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+/***** Clase img-thumbnail para las imágenes del Encabezamiento *****/
+.img-thumbnail{
+    border-color: rgb(138, 131, 131);
+    padding-bottom: 1px;
+}
+
+/***** Identificador filtro de la Zona de Filtrado de datos *****/
+#filtro{
+    padding: 20px;
+}
+
+/***** Selector de línea horizontal (hr) *****/
+hr{
+    color: rgb(12, 84, 36);
+    margin-left:auto;
+    margin-right: auto;
+    width:90%;  
+}
+
+/***********************************************************COLOR FONDO BOTÓNES EDITAR, CONSULTAR Y ELIMINAR **********************************************/
+/* .botonE{
+    background-color:lightgreen;
+}
+.botonC{
+    background-color:lightseagreen;
+}
+.botonD{
+    background-color:rgb(218, 160, 170);
+}*/
+
+/*//////////////////////////////////////////////////////////////////
+[ FONT ]*/
+
+/***************************************************************************** A PARTIR DE AQUÍ MAIN.CSS **********************************************/
