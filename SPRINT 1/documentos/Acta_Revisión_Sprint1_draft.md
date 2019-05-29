@@ -83,11 +83,11 @@ Notas:
 <a name="item4"></a>
 ## 4.Planificación del próximo Sprint
 
-Se realizara un Sprint de mayor duración, ya que el actual no ha llegado a dos semanas. La finalidad del mismo es continuar con las tareas que no pudieron asumirse en este sprint y ....
+POR DETERMINAR: La finalidad del próximo sprint es continuar con las tareas que no pudieron asumirse en este sprint y ....
 
 <a name="item5"></a>
 ## 5.Propuestas para el equipo
 
-Preparar un plan detallado para la próxima iteración, contar con una agenda para la próxima reunión con el fin de realizar una presentación más eficiente y de forma ordenada.
+POR DETERMINAR: Preparar un plan detallado para la próxima iteración, contar con una agenda para la próxima reunión con el fin de realizar una presentación más eficiente y de forma ordenada.
 
 [Acta Revisión Sprint](#top)
