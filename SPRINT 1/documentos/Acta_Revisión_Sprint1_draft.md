@@ -70,14 +70,14 @@ El coste asociado y estimado a cada una de las tareas, se ha aproximado a la rea
 
 Se realizó una revisión de las funcionalidades desarrolladas, se propusieron mejoras y se analizaron posibles cambios en los requerimientos.
 Mejoras:
-- ...
-- ...
+- Revisar la documentación y corregir los errores detectados, durante la reunión con el Producto Owner, en el diagrama de secuencia y en el diagrama de clases.
+- Revisar la interfaz de usuario para que siga la apariencia de bootstrap.
+
 Cambios:
-- ...
+- Cambios en el código java y en la interfaz de usuario para aplicar las mejoras.
 
 Notas:
-- ...
-- ... 
+- Revisar y organizar la información del repositorio de github.
 
 
 <a name="item4"></a>
