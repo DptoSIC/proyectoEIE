@@ -16,7 +16,7 @@
 
 **5.- [TABLERO KANBAN](https://github.com/DptoSIC/proyectoEIE/projects/1)**
 
-**6.- [ACTA REVISIÓN DEL SPRINT](https://github.com/DptoSIC/proyectoEIE/blob/master/documentos/SPRINT/SPRINT%201/documentos/Acta_Revisio%CC%81n_Sprint1_draft.md)**
+**6.- [ACTA REVISIÓN DEL SPRINT](https://github.com/DptoSIC/proyectoEIE/blob/master/documentos/SPRINT/SPRINT%201/documentos/Acta_Revisi%C3%B3n_Sprint1_draft.md)**
 
 **7.- DOCUMENTO DE RETROSPECTIVA DEL SPRINT**
 
